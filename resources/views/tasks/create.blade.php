@@ -7,7 +7,7 @@
 @endsection
 
 @section('content')
-@include('error')
+<!-- @include('error') -->
 
 <div class="row">
   <div class="col-md-12">
